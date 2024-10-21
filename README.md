@@ -1,8 +1,13 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React-Water-Bottle
 
-Currently, two official plugins are available:
+Here is a simple website using react.You can add see the all available bottles. you can also purchase any bottle. you can also remove bottle from the cart.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## website-view
+
+![React Water Bottle](./src/assets/react-bottle.png)
+
+
+## Live Link
+
+- [React-Water-Bottle](https://memorable-water-bottle-36.surge.sh/)
